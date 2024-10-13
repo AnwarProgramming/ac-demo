@@ -1,7 +1,7 @@
 # ac-demo
 This is a repository description.
 <br>
-Authentication - gmail login and facebook login
+Authentication - only via gmail login
 
 ### 
 To add a file --> git add index.html
